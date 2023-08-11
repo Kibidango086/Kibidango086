@@ -9,3 +9,5 @@
 </span><img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kibidango086&layout=compact&langs_count=8" />
 <span>  </span>
 </div>
+
+![Metrics](https://metrics.lecoq.io/my-github-user)
