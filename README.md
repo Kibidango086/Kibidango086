@@ -1,1 +1,5 @@
-[![GitHub Roast](https://ghfind.com/api/card/kibidango086?theme=dark&variant=path&qr=1)](https://ghfind.com/u/kibidango086?ref=badge)
+<div align="center">
+
+[![Kibidango086's GitHub Metrics](https://material-shield.kibidango086.workers.dev/metrics?user=Kibidango086)](https://github.com/Kibidango086/material-shield)
+
+</div>
